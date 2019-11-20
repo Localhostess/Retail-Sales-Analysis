@@ -1,4 +1,5 @@
-Results Obtained From The EDA (Exploratory Data Analysis)
+## Results Obtained From The EDA (Exploratory Data Analysis)
+
 Transactions Period - January 2nd 2011 to December 2nd 2014.
 
 1. There was a sharp decline in sales from 2013 to 2014. It is nor clear why this occurred. Highest sales was recorded in the years 2012 and 2013.
